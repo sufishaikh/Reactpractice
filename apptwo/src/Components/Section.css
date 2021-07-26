@@ -1,0 +1,22 @@
+section{
+    background-color: rgb(151, 235, 235);
+    border: 5px solid black;
+    margin: 5px;
+    box-shadow: 0 10px 10px black;
+    width: 1200px;
+    margin: 20px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.art1{
+    background-color: rgb(247, 167, 167);
+    margin: 20px;
+}
+.art2{
+    background-color: rgb(138, 138, 233);
+}
+
